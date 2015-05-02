@@ -1,10 +1,8 @@
-﻿// -----------------------------------------------------------------------
-// Eros Fratini - eros@recoding.it
-// jqprint 0.3
+﻿//gjlong @github.com
+//jqprint 0.3
 //
-// - 19/06/2009 - some new implementations, added Opera support
-// - 11/05/2009 - first sketch
-//
+// - 02/05/2015 - changed the $.browser --> $.support,add jquery 1.9 or newer support
+
 // Printing plug-in for jQuery, evolution of jPrintArea: http://plugins.jquery.com/project/jPrintArea
 // requires jQuery 1.3.x
 //
