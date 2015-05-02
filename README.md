@@ -1,4 +1,4 @@
-# jquery.jqprint-0.3.js(支持jquery1.9)
+# jquery.jqprint-0.3.js(支持jquery1.9以上)
 ### 支持jquery1.9以上版本，jquery1.11.1也支持。
 ------
 由于jQuery从1.9版开始，移除了**$.browser**和**$.browser.version**，取而代之的是**$.support**。  
@@ -8,5 +8,5 @@
 ```javascript
 $.browser --> $.support
 ```
-调用js函数的方法跟原来一样。
+调用js函数的方法跟原来的一样。
 
